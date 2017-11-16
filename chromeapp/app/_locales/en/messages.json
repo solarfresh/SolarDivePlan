@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "solar dive plan",
+    "description": "an application to conduct a plan for dive trips"
+  },
+  "appDescription": {
+    "message": "An application to conduct a plan for dive trips",
+    "description": "An application to conduct a plan for dive trips"
+  }
+}
